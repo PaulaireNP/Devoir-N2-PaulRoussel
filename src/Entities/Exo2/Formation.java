@@ -30,6 +30,7 @@ public class Formation
         // A compléter ici
 
         return 0;
+
     }
 
     // Cette méthode permet de calculer le montant total
